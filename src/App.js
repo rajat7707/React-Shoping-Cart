@@ -17,6 +17,7 @@ function App() {
 
   const resetCart = () => {
     setProductItem(product);
+    setCheckout(false);
   }
   
   // Handle The Change On Cart Quantity :-
