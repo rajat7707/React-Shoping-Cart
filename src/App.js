@@ -7,7 +7,7 @@ function App() {
 
   const product = [
     { item: "A", price: 50, totalPrice: 0 , offer: "buy three ‘A’s and they’ll cost you $130.", dataheading: "Product", initialQuantity: 0 },
-    { item: "B", price: 30, totalPrice: 0 , offer: "buy three ‘B’s and they’ll cost you $45.", dataheading: "Price", initialQuantity: 0 },
+    { item: "B", price: 30, totalPrice: 0 , offer: "buy two ‘B’s and they’ll cost you $45.", dataheading: "Price", initialQuantity: 0 },
     { item: "C", price: 20, totalPrice: 0 , offer: "", dataheading: "Quantity", initialQuantity: 0 },
     { item: "D", price: 15, totalPrice: 0 , offer: "", dataheading: "Product", initialQuantity: 0 },
   ];
